@@ -11,12 +11,12 @@ div{
     display: inline-block;
     height: 100px;
     line-height: 100px;
-    width: 200px; 
+    width: 500px; 
 }
 button{
     border: none;
     border-radius: 50%;
-    color: #12b3fd;
+    color: #798083;
     font-size: 25px;
     height: 120px;
     width: 120px; 
